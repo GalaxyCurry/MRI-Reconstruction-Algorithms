@@ -14,7 +14,7 @@ This repository contains implementations of several common MRI reconstruction al
    - Controlled Array
       - SMASH
       - SENSE
-      - Grappa
+      - GRAPPA
 
 ## Usage
 
