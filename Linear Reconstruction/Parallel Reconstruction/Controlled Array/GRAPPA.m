@@ -237,8 +237,6 @@ imagesc(reconImage);
 title('Reconsrtucted Image');
 colormap('gray');
 colorbar();
-%%
-imagesc(angle(temp));
 %% Display difference image
 %%
 deltaImage = reconImage - originalImage;
