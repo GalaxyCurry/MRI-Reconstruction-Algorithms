@@ -5,16 +5,18 @@ This repository contains implementations of several common MRI reconstruction al
 ## Algorithms
 
 - Filtered Back Projection (FBP)
+- Linear Reconstruction
+   - Parallel Reconstruction
+      - Controlled Array
+        - SMASH
+        - SENSE
+        - GRAPPA
 - Iterative Reconstruction
    - Least Squares 
-   - Sparse MRI（Compressed Sensing——CS）
+   - Sparse MRI（Compressed Sensing——CS、Dictionary Learning）
    - Low Rank
 - AI Reconstruction
-- Parallel Reconstruction
-   - Controlled Array
-      - SMASH
-      - SENSE
-      - GRAPPA
+
 
 ## Usage
 
