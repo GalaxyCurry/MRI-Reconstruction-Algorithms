@@ -17,6 +17,9 @@ This repository contains implementations of several common MRI reconstruction al
    - Low Rank
 - AI Reconstruction
 
+## Data Prepare
+
+Download data from the link fastMRI:https://fastmri.org/dataset/
 
 ## Usage
 
