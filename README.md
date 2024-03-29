@@ -21,6 +21,10 @@ This repository contains implementations of several common MRI reconstruction al
 
 Download data from the link fastMRI:https://fastmri.org/dataset/
 
+## Code Source
+
+MoDL: Model Based Deep Learning Architecture for Inverse Problems  https://github.com/hkaggarwal/modl
+
 ## Usage
 
 Each algorithm is implemented as a Jupyter Notebook with detailed comments. The notebooks can be run locally or viewed on GitHub. 
