@@ -23,7 +23,7 @@ Download data from the link fastMRI:https://fastmri.org/dataset/
 
 ## Code Source
 
-MoDL: Model Based Deep Learning Architecture for Inverse Problems  https://github.com/hkaggarwal/modl
+MoDL(Model Based Deep Learning Architecture for Inverse Problems):https://github.com/hkaggarwal/modl
 
 ## Usage
 
