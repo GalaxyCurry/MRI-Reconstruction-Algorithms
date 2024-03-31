@@ -22,8 +22,7 @@ This repository contains implementations of several common MRI reconstruction al
 
 Download data from the link fastMRI:https://fastmri.org/dataset/
 
-MoDL：链接：https://pan.baidu.com/s/1LIf_3KQEuOVG7JjVYhhRXQ?pwd=1516 
-      提取码：1516
+MoDL：Link---https://pan.baidu.com/s/1LIf_3KQEuOVG7JjVYhhRXQ?pwd=1516  Password---1516
 
 ## Code Source
 
