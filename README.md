@@ -16,10 +16,14 @@ This repository contains implementations of several common MRI reconstruction al
    - Sparse MRI（Compressed Sensing——CS、Dictionary Learning）
    - Low Rank
 - AI Reconstruction
+   - MoDL
 
 ## Data Prepare
 
 Download data from the link fastMRI:https://fastmri.org/dataset/
+
+MoDL：链接：https://pan.baidu.com/s/1LIf_3KQEuOVG7JjVYhhRXQ?pwd=1516 
+      提取码：1516
 
 ## Code Source
 
