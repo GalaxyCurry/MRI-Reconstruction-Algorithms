@@ -29,8 +29,9 @@ Download data from the link fastMRI: https://fastmri.org/dataset/
 ## Code Source
 
 - MoDL(Model Based Deep Learning Architecture for Inverse Problems): https://github.com/hkaggarwal/modl
-- ISTA-Net(Interpretable Optimization-Inspired Deep Network for Image Compressive Sensing): (Pytorch) https://github.com/jianzhangcs/ISTA-Net-PyTorch
-                                                                                          (Tensorflow) https://github.com/jianzhangcs/ISTA-Net
+- ISTA-Net(Interpretable Optimization-Inspired Deep Network for Image Compressive Sensing):
+  - (Pytorch) https://github.com/jianzhangcs/ISTA-Net-PyTorch
+  - (Tensorflow) https://github.com/jianzhangcs/ISTA-Net
 
 ## Usage
 
